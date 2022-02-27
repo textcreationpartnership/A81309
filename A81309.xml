@@ -1,0 +1,1125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reverse: or, the tables turn'd A poem written in answer, paragraph by paragraph, to a late scurrilous and malicious medly of rhimes called the foreigners.</title>
+            <author>Dennis, John, 1657-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81309</idno>
+            <idno type="STC">Wing D1041A</idno>
+            <idno type="STC">ESTC R213799</idno>
+            <idno type="EEBO-CITATION">99896905</idno>
+            <idno type="PROQUEST">99896905</idno>
+            <idno type="VID">132775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 132775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2465:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reverse: or, the tables turn'd A poem written in answer, paragraph by paragraph, to a late scurrilous and malicious medly of rhimes called the foreigners.</title>
+                  <author>Dennis, John, 1657-1734.</author>
+                  <author>Tutchin, John, 1661?-1707.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition, corrected.</edition>
+               </editionStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by John Nutt near Stationers Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By John Dennis.</note>
+                  <note>Includes the text of John Tutchin's 'The foreigners', an attack on William III, in alternate paragraphs.</note>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library, University of California, Los Angeles, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700 --  Early works to 1800.</term>
+               <term>Satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:132775:1" rendition="simple:additions"/>
+            <p>THE REVERSE: OR, THE Tables Turn'd. A POEM Written in Anſwer, Paragraph by Paragraph, to a late Scurrilous and Malicious <hi>Medly</hi> of <hi>Rhimes</hi> called the <hi>Foreigners.</hi>
+            </p>
+            <q>
+               <l>Non ita ſunt diſſimili <hi>Argumento,</hi> ſed tamen</l>
+               <l>Diſſimili <hi>Oratione</hi> ſunt factae &amp; <hi>Stylo.</hi>
+               </l>
+               <bibl>
+                  <hi>Ter. Andr.</hi>
+               </bibl>
+            </q>
+            <p>The Second Edition, Corrected.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>John Nutt</hi> near <hi>Stationers Hall.</hi> 1700.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:132775:2"/>
+            <head>THE AUTHOR TO THE READER.</head>
+            <p>THE Perſon who gives being to the Trouble I am now put<g ref="char:EOLhyphen"/>ting my ſelf to, is ſo well known for a <hi>Malecontent,</hi> and his Writings of ſo little Repute, that I ſhould take no man<g ref="char:EOLhyphen"/>ner of notice of him, had he not been appointed the Mouth of a Party which would level their own with Crown'd Heads, and bring down thoſe who have any ſeeming advantage over 'em. But ſince he is not content to be uninterrupted at his <hi>Calves Head Feaſt,</hi> to write againſt the Commiſſioners of the <hi>Victualing Office,</hi> at the ſame time when he had ſtarv'd without their Aſſiſtance, to buz about Maladminiſtration in thoſe of the <hi>Admiralty,</hi> when he could prove nothing like it, but muſt needs arrogate to himſelf miſerable Re<g ref="char:EOLhyphen"/>flections on the beſt conſtituted Government in the World, and ſtrike at the Perſon of his <hi>Sovereign</hi> in thoſe he has been pleaſed to <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> with his Favours; I could not but think it my Duty to give him the Correction which was due to him, though it falls ſhort of what he deſerves. As for the Method I have taken; the Reaſon which in<g ref="char:EOLhyphen"/>duc'd me to Print his <hi>wretched</hi> Rhimes Line for Line was, becauſe I would give ſome advantage to my <hi>Own</hi> which follow <hi>His</hi> Para<g ref="char:EOLhyphen"/>graph by Paragraph; and would expoſe thoſe ridiculous Reflections to a <hi>Second</hi> Peruſal, which have found too much favour in the <hi>Firſt.</hi> I intend it not ſo much for an Anſwer, as to put him in a more Methodical way when he ſhall write again; and to ſhew him what a dull <hi>Animal</hi> of a <hi>Malignant</hi> he is. I might indeed have Re<g ref="char:EOLhyphen"/>flected upon his Incongruities, pointed at the ſeveral eſcapes he has made from the Confinement of Sence, and examin'd his Expreſſions and lamentable Turns of Thought; but I forbore <hi>Particulars,</hi> to make him a <hi>General</hi> Block-head, and if I have done that, I have gain'd my Aim.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="8" facs="tcp:132775:2"/>
+            <head>THE REVERSE: OR, THE Tables Turn'd.</head>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>LONG time had</hi> Iſrael <hi>been diſus'd from Reſt,</hi>
+               </l>
+               <l>
+                  <hi>Long had they been by Tyrants ſore Oppreſt:</hi>
+               </l>
+               <l>
+                  <hi>Kings of all ſorts they ignorantly crav'd,</hi>
+               </l>
+               <l>
+                  <hi>And grew more ſtupid as they were enſlav'd;</hi>
+               </l>
+               <l>
+                  <hi>Yet</hi> want of Grace <hi>they impiouſly</hi> diſown'd,</l>
+               <l>
+                  <hi>And ſtill like Slaves beneath the Burthen groan'd.</hi>
+               </l>
+               <l>
+                  <hi>With Languid Eyes their Race of Kings they view,</hi>
+               </l>
+               <l>
+                  <hi>The Bad too many, and the Good too few.</hi>
+               </l>
+               <l>
+                  <hi>Some Rob'd their Houſes, and Deſtroy'd their Lives,</hi>
+               </l>
+               <l>
+                  <hi>Raviſh'd their Daughters, and Debauch'd their Wives;</hi>
+               </l>
+               <l>
+                  <hi>Prophan'd the Altars with polluted Loves,</hi>
+               </l>
+               <l>
+                  <hi>And Worſhipp'd Idols in the Woods and Groves.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>
+                  <hi>Iſrael</hi> had ſtill, if <hi>Iſrael</hi> had been true,</l>
+               <l>Enjoy'd ſweet Reſt, and kept ſoft Peace in view;</l>
+               <l>Her Kings made awful, and their Subjects fear'd,</l>
+               <l>And <hi>Thoſe</hi> ſlept ſafe, while <hi>Theſe</hi> had wak'd and ſteer'd.</l>
+               <l>But Fears, Diſtruſts and Jealouſies aroſe,</l>
+               <l>And Impious <hi>Iſraelites</hi> were <hi>Iſrael</hi>'s Foes;</l>
+               <l>As <hi>Faction</hi> at her Monarchs hiſs'd aloud,</l>
+               <l>Shaking her <hi>Snaky</hi> Locks amidſt the Croud.</l>
+               <l>Thence grew a Scene of undiſtinguiſh'd Crimes,</l>
+               <l>And nothing look'd like <hi>Guilt in guilty</hi> Times.</l>
+               <l>Whilſt Murm'ring Friends on <hi>Tyrants</hi> laid their ills,</l>
+               <l>And in their ſtead <hi>obey'd</hi> their <hi>Tyrant</hi> Wills.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>To Foreign Nations next they have Recourſe,</hi>
+               </l>
+               <l>
+                  <hi>Striving to mend, they made their State much worſe.</hi>
+               </l>
+               <l>
+                  <hi>They firſt from</hi> Hebron <hi>all their Plagues did bring,</hi>
+               </l>
+               <l>
+                  <hi>Cramm'd in the ſingle Perſon of a King.</hi>
+               </l>
+               <pb n="4" facs="tcp:132775:3"/>
+               <l>
+                  <hi>From whoſe</hi> Baſe <hi>Loyns Ten Thouſand Evils flow,</hi>
+               </l>
+               <l>
+                  <hi>Which by</hi> Succeſſion <hi>they muſt undergo.</hi>
+               </l>
+               <l>
+                  <hi>Yet Senſe of native Freedom ſtill remains,</hi>
+               </l>
+               <l>
+                  <hi>They fret and grumble underneath their Chains;</hi>
+               </l>
+               <l>
+                  <hi>Incens'd, enrag'd, their Paſſion does ariſe,</hi>
+               </l>
+               <l>
+                  <hi>Till at his Palace-Gate their Monarch dies.</hi>
+               </l>
+               <l>
+                  <hi>This</hi> Glorious <hi>Feat was by the</hi> Father's <hi>done,</hi>
+               </l>
+               <l>
+                  <hi>Whoſe</hi> Children <hi>next Depos'd his</hi> Tyrant <hi>Son;</hi>
+               </l>
+               <l>
+                  <hi>Made Him, like</hi> Cain, <hi>a</hi> Murd'rous <hi>Wanderer,</hi>
+               </l>
+               <l>
+                  <hi>Both of His Crimes, and of His Fortunes ſhare.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>Her Queen deceas'd, and Virgin Sov'reign Dead,</l>
+               <l>Without the Pledges of the Nuptial Bed,</l>
+               <l>A Neighb'ring Land, the Vacant Throne ſupply'd,</l>
+               <l>And lent with Tears, what ſhe'd have kept with Pride.</l>
+               <l>Bleſs'd <hi>Iſrael</hi> with a Monarch Wiſe and Good,</l>
+               <l>Made her's, by <hi>Choice,</hi> by <hi>Providence,</hi> and <hi>Blood.</hi>
+               </l>
+               <l>But Wealth nor Peace could Conſecrate his Reign,</l>
+               <l>Her Childrens <hi>Bleſſing</hi> was her Childrens <hi>Pain;</hi>
+               </l>
+               <l>Who in requital to the <hi>Race</hi> H' had run,</l>
+               <l>Return'd his <hi>Goodneſs</hi> with a <hi>Martyr'd</hi> Son.</l>
+               <l>Curs'd be the <hi>Pen,</hi> that <hi>dares</hi> ſuch Worth <hi>defame,</hi>
+               </l>
+               <l>And give that <hi>Murd'rous</hi> Fact a <hi>Glorious</hi> Name,</l>
+               <l>Which Deaf to Pity, ſcatters it's Applauſe</l>
+               <l>On what muſt <hi>Damn</hi> the <hi>Praiſer</hi> with the <hi>Cauſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>But ſtill reſolv'd to ſplit on Foreing Shelves,</hi>
+               </l>
+               <l>
+                  <hi>Rather than venture once to truſt themſelves,</hi>
+               </l>
+               <l>
+                  <hi>To Foreign Courts and Councils do reſort,</hi>
+               </l>
+               <l>
+                  <hi>To find a King their Freedom to ſupport.</hi>
+               </l>
+               <l>
+                  <hi>Of one for mighty Actions fam'd they'r told,</hi>
+               </l>
+               <l>
+                  <hi>Profoundly Wiſe, and deſperately Bold,</hi>
+               </l>
+               <l>
+                  <hi>Skillful in VVar, ſucceſsful ſtill in Fight,</hi>
+               </l>
+               <l>
+                  <hi>Had vanquiſh'd Hoſts, and Armies put to Flight;</hi>
+               </l>
+               <l>
+                  <hi>And when the Storms of VVar and Battels ceaſe,</hi>
+               </l>
+               <l>
+                  <hi>Knew well to ſteer the Ship of State in Peace.</hi>
+               </l>
+               <l>
+                  <hi>Him they approve approaching to their Sight,</hi>
+               </l>
+               <l>
+                  <hi>Lov'd by the Gods, of Mankind the Delight.</hi>
+               </l>
+               <l>
+                  <hi>The num'rous Tribes reſort to ſee him Land,</hi>
+               </l>
+               <l>
+                  <hi>Cover the Beach, and blacken all the Strand:</hi>
+               </l>
+               <l>
+                  <hi>VVith lound Huzza's they wellcome him on Shore,</hi>
+               </l>
+               <l>
+                  <hi>And for their Bleſſing do the Gods implore.</hi>
+               </l>
+               <l>
+                  <hi>The Sanhedrim conven'd, at length debate.</hi>
+               </l>
+               <l>
+                  <hi>The ſad Condition of their drooping State.</hi>
+               </l>
+               <pb n="5" facs="tcp:132775:3"/>
+               <l>
+                  <hi>And ſinking Church juſt ready now to drown,</hi>
+               </l>
+               <l>
+                  <hi>And with one Shout they do the Hero Crown.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>The Father <hi>Martyr'd,</hi> and the Son <hi>Miſled</hi>
+               </l>
+               <l>By Counſels of a Land to which he fled,</l>
+               <l>As taught to <hi>Govern</hi> he forgot to <hi>Rule,</hi>
+               </l>
+               <l>And held the Reins not <hi>Temperate</hi> or <hi>Cool.</hi>
+               </l>
+               <l>What Method ſhould miſguided <hi>Iſrael</hi> chuſe?</l>
+               <l>To truſt <hi>Herſelf</hi> was ev'n <hi>Herſelf</hi> to <hi>loſe:</hi>
+               </l>
+               <l>Slow to correct, though eager to complain,</l>
+               <l>She could not regulate a faulty Reign.</l>
+               <l>When on Her injur'd ſide a Hero ſtood,</l>
+               <l>
+                  <hi>Foreign</hi> in <hi>Birth,</hi> but <hi>Native</hi> in his <hi>Blood;</hi>
+               </l>
+               <l>And dar'd the Dangers of the Winds and Seas,</l>
+               <l>Vent'ring his Own to purchaſe <hi>Iſrael</hi>'s Eaſe.</l>
+            </lg>
+            <lg>
+               <l>And juſt was <hi>Iſrael</hi>'s Joy to ſee him Land,</l>
+               <l>And view Deliv'rance <hi>dawning</hi> from his Hand,</l>
+               <l>Juſt was the Gift ſhe gave him, in return</l>
+               <l>For Death <hi>deſpis'd,</hi> and Hardſhips <hi>nobly</hi> Born,</l>
+               <l>For Wealth <hi>deſerted,</hi> and for <hi>Succours</hi> brought,</l>
+               <l>
+                  <hi>Swift</hi> as <hi>Our</hi> Hopes, and daring as <hi>His</hi> Thought,</l>
+               <l>While the good Prince with Pious Sorrow griev'd,</l>
+               <l>And mourn'd <hi>His</hi> Fate, whoſe <hi>Kingdoms</hi> He reliev'd.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>Ah happy</hi> Iſrael! <hi>had there never come</hi>
+               </l>
+               <l>
+                  <hi>Into his Councils crafty Knaves at Home;</hi>
+               </l>
+               <l>
+                  <hi>In Combination with a Foreign Brood,</hi>
+               </l>
+               <l>
+                  <hi>Sworn Foes to</hi> Iſrael<hi>'s Rights, and</hi> Iſrael<hi>'s Good;</hi>
+               </l>
+               <l>
+                  <hi>Who impiouſly foment inteſtine Jars,</hi>
+               </l>
+               <l>
+                  <hi>Exhauſt our Treaſure, and prolong our Wars;</hi>
+               </l>
+               <l>
+                  <hi>Make</hi> Iſrael<hi>'s People to themſelves a Prey,</hi>
+               </l>
+               <l>
+                  <hi>Miſlead their King, and ſteal His Heart away:</hi>
+               </l>
+               <l>
+                  <hi>United Int'reſts thus they do divide,</hi>
+               </l>
+               <l>
+                  <hi>The State declines by Avarice and Pride;</hi>
+               </l>
+               <l>
+                  <hi>Like Beaſts of Prey they Ravage all the Land,</hi>
+               </l>
+               <l>
+                  <hi>Acquire Preferments, and Uſurp Command:</hi>
+               </l>
+               <l>
+                  <hi>The Foreign</hi> Inmates <hi>the</hi> Houſe-keepers <hi>ſpoil,</hi>
+               </l>
+               <l>
+                  <hi>And drain the moiſture of our fruitful Soil.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>Yet there were ſome who <hi>ſhar'd</hi> the Warriour's Aid,</l>
+               <l>That <hi>murmur'd</hi> at the <hi>Gift</hi> themſelves had made,</l>
+               <l>That high in Truſt and Penſions from the State</l>
+               <l>Thought <hi>their</hi> Reward too <hi>ſmall,</hi> and <hi>His</hi> too <hi>great;</hi>
+               </l>
+               <l>As <hi>Iſrael</hi>'s Sov'reign <hi>warm'd'</hi> em in his Breaſt,</l>
+               <l>And nurs'd the <hi>Vip'rous</hi> Tyrants of his Reſt.</l>
+               <l>Amongſt the Chief was <hi>S</hi>—<hi>r</hi>'s haughty Mind,</l>
+               <l>A <hi>Sloven</hi> of <hi>Inhoſpitable</hi> kind,</l>
+               <pb n="6" facs="tcp:132775:4"/>
+               <l>
+                  <hi>Prefer'd</hi> by Kings, yet ne'er to Monarch true,</l>
+               <l>A murm'ring, cunning, miſerable <hi>Jew,</hi>
+               </l>
+               <l>Who in return to Royal Bounty, ſheds</l>
+               <l>His venom'd Inſolence on Royal Heads,</l>
+               <l>Oppoſing Courts, that he by <hi>Courts</hi> may <hi>riſe,</hi>
+               </l>
+               <l>As he puts on the Patriot in Diſguiſe.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>If to our Monarch there are Honours due,</hi>
+               </l>
+               <l>
+                  <hi>Yet what with</hi> Gibeonites <hi>have we to do?</hi>
+               </l>
+               <l>
+                  <hi>When Foreign States employ 'em for their Food,</hi>
+               </l>
+               <l>
+                  <hi>To Draw their Water, and to Hew their Wood.</hi>
+               </l>
+               <l>
+                  <hi>What Muſhroom Honours does our Soil afford!</hi>
+               </l>
+               <l>
+                  <hi>One day a Beggar, and the next a Lord.</hi>
+               </l>
+               <l>
+                  <hi>What daſtard Souls do</hi> Jewiſh <hi>Nobles wear!</hi>
+               </l>
+               <l>
+                  <hi>The Commons ſuch Affronts could never bear.</hi>
+               </l>
+               <l>
+                  <hi>Let no Hiſtorian the ſad Story tell</hi>
+               </l>
+               <l>
+                  <hi>Of thy baſe Sons, Oh ſervile</hi> Iſrael!</l>
+               <l>
+                  <hi>But Thou my Muſe, more generous and brave,</hi>
+               </l>
+               <l>
+                  <hi>Shalt their black Crimes from dark Oblivion ſave;</hi>
+               </l>
+               <l>
+                  <hi>To future Ages ſhalt their Sins diſcloſe,</hi>
+               </l>
+               <l>
+                  <hi>And brand with infamy thy Nations Foes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>If <hi>Judah</hi>'s Sons are falſe, and <hi>Gibeon</hi>'s juſt,</l>
+               <l>
+                  <hi>Gibeon</hi> has right to <hi>ſhare</hi> in <hi>Judah</hi>'s <hi>Truſt;</hi>
+               </l>
+               <l>And ſerve abroad whom ſhe at home rever'd,</l>
+               <l>By Gods approv'd of, and to Men endear'd.</l>
+               <l>Monarchs are <hi>Fountains</hi> whence all Honours flow,</l>
+               <l>(And Fountains where they pleaſe their Streams beſtow)</l>
+               <l>And if all Titles iſſue from the Throne,</l>
+               <l>Sure they may <hi>give,</hi> ſince what they <hi>give's</hi> their <hi>Own.</hi>
+               </l>
+               <l>But Malice other kinds of Doctrine ſpreads,</l>
+               <l>And makes the Crown <hi>precarious</hi> on their Heads.</l>
+               <l>Forbid it Heaven ſuch Notions have a place</l>
+               <l>Amidſt the Regiſters of <hi>Jewiſh</hi> Race,</l>
+               <l>Whoſe Pillory'd Printer blackens the deſigns,</l>
+               <l>And whoſe whip'd Author ſtain's the very Lines.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>A Country lies due Eaſt from</hi> Judah<hi>'s Shoar,</hi>
+               </l>
+               <l>
+                  <hi>Where ſtormy Winds and noiſy Billows roar;</hi>
+               </l>
+               <l>
+                  <hi>A Land much differing from all other Soils,</hi>
+               </l>
+               <l>
+                  <hi>Forc'd from the Sea, and buttreſs'd up with Piles.</hi>
+               </l>
+               <l>
+                  <hi>No marble Quarries bind the ſpungy Ground,</hi>
+               </l>
+               <l>
+                  <hi>But Loads of Sand and Cockle-ſhells are found:</hi>
+               </l>
+               <l>
+                  <hi>It's Natives void of Honeſty and Grace,</hi>
+               </l>
+               <l>
+                  <hi>A Booriſh, rude, and an inhumane Race;</hi>
+               </l>
+               <l>
+                  <hi>From Nature's Excrement their Life is drawn,</hi>
+               </l>
+               <l>
+                  <hi>Are born in Bogs and nouriſh'd up from Spawn.</hi>
+               </l>
+               <pb n="7" facs="tcp:132775:4"/>
+               <l>
+                  <hi>Their hard-ſmoak'd Beef is their continual Meat.</hi>
+               </l>
+               <l>
+                  <hi>Which they with Rusk, their luſcious Manna, eat;</hi>
+               </l>
+               <l>
+                  <hi>Such Food with their chill ſtomach beſt agrees,</hi>
+               </l>
+               <l>
+                  <hi>They ſing</hi> Hoſannah <hi>to a Mare's-milk Cheeſe.</hi>
+               </l>
+               <l>
+                  <hi>To ſupplicate no God, their lips will move,</hi>
+               </l>
+               <l>
+                  <hi>VVho ſpeaks in Thunder like Almighty</hi> Jove,</l>
+               <l>
+                  <hi>But watry Deities they do invoke,</hi>
+               </l>
+               <l>
+                  <hi>VVho from the Marſhes moſt Divinely croak.</hi>
+               </l>
+               <l>
+                  <hi>Their Land as if aſham'd their Crimes to ſee,</hi>
+               </l>
+               <l>
+                  <hi>Dives down beneath the ſurface of the Sea,</hi>
+               </l>
+               <l>Neptune, <hi>the God who do's the Seas command,</hi>
+               </l>
+               <l>
+                  <hi>Ne'er ſtands on Tip-toe to diſcry their Land?</hi>
+               </l>
+               <l>
+                  <hi>But ſeated on the Billows of the Sea,</hi>
+               </l>
+               <l>
+                  <hi>VVith Eaſe their humble Marſhes do's ſurvey.</hi>
+               </l>
+               <l>
+                  <hi>Theſe are the Vermin do our State moleſt;</hi>
+               </l>
+               <l>
+                  <hi>Eclipſe our Glory, and diſturb our Reſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>A Sect of People ſeemingly preciſe,</l>
+               <l>Nor Eaſt, nor Weſt, nor South, diſtinctly lies,</l>
+               <l>All Points of Wind the Murm'ring Sinners ſhare,</l>
+               <l>And Whine, and Rail, and Plot in ev'ry Air.</l>
+               <l>No <hi>God</hi> they'd ſuffer, and no <hi>King</hi> obey.</l>
+               <l>But would the <hi>People</hi> by the <hi>People</hi> ſway;</l>
+               <l>Curſing their Kings, as if by Kings undone;</l>
+               <l>Yet wiſhing for <hi>Five hundred</hi>' ſtead of <hi>One.</hi>
+               </l>
+               <l>With theſe a Senſeleſs, ſtarving Scribler join'd,</l>
+               <l>Poor in his Purſe, and reſtleſs in his Mind;</l>
+               <l>Yet proud of Parts he knew not how to ſhow,</l>
+               <l>Turn'd out of Place, and deſpicably Low,</l>
+               <l>Whilſt He to others Places laying Claim,</l>
+               <l>Loſt what He had of Salary, and of Shame.</l>
+               <l>
+                  <hi>St—ph—ns</hi> careſs'd him, and Plain-dealing <hi>O</hi>—</l>
+               <l>Fed him to Write his Anabaptiſt Notes.</l>
+               <l>A kind Aſſiſtance in a Lucky Time,</l>
+               <l>Which made <hi>him</hi> Preach as well as <hi>he</hi> could Rhime:</l>
+               <l>Such <hi>T—n</hi> was, an Evidential Scribe,</l>
+               <l>Fit for the Toil of one of <hi>O—s</hi> his Tribe,</l>
+               <l>Who Laſh'd like <hi>him,</hi> like <hi>him</hi> could Snarl and Rail,</l>
+               <l>And ſhew his <hi>Malice,</hi> 'cauſe he ſhew'd his Tail.</l>
+               <l>Oh may the Calves-head Rioters, our Foes,</l>
+               <l>Still uſe <hi>his</hi> Rhimes, <hi>his</hi> lamentable Proſe,</l>
+               <l>That Faction may be quieted and ceas'd,</l>
+               <l>Prais'd by ſo curs'd a <hi>Poet,</hi> and a <hi>Prieſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>BENTIR <hi>in the Inglorious Roll the firſt,</hi>
+               </l>
+               <l>Bentir <hi>to this and future Ages curs'd,</hi>
+               </l>
+               <l>
+                  <hi>Of mean Deſcent, yet inſolently Proud,</hi>
+               </l>
+               <l>
+                  <hi>Shunn'd by the Great, and hated by the Croud;</hi>
+               </l>
+               <pb n="8" facs="tcp:132775:5"/>
+               <l>
+                  <hi>Who neither Blood nor Parentage can boaſt,</hi>
+               </l>
+               <l>
+                  <hi>And what he got the</hi> Jewiſh <hi>Nation loſt:</hi>
+               </l>
+               <l>
+                  <hi>By laviſh Grants whole Provinces he gains,</hi>
+               </l>
+               <l>
+                  <hi>Made forſeit by the</hi> Jewiſh <hi>People's Pains;</hi>
+               </l>
+               <l>
+                  <hi>Till angry Sanhedrims ſuch Grants reſume,</hi>
+               </l>
+               <l>
+                  <hi>And from the Peacock take each borrow'd Plume.</hi>
+               </l>
+               <l>
+                  <hi>Why ſhould the</hi> Gibeonites <hi>our Land engroſs,</hi>
+               </l>
+               <l>
+                  <hi>And aggrandize their Fortunes with our Loſs?</hi>
+               </l>
+               <l>
+                  <hi>Let them in foreign States proudly command,</hi>
+               </l>
+               <l>
+                  <hi>They have no Portion in the Promis'd Land,</hi>
+               </l>
+               <l>
+                  <hi>Which immemorialy has been decreed,</hi>
+               </l>
+               <l>
+                  <hi>To be the Birth-right of the</hi> Jewiſh <hi>Seed.</hi>
+               </l>
+               <l>
+                  <hi>How ill do's</hi> Bentir <hi>in the Head appear</hi>
+               </l>
+               <l>
+                  <hi>Of Warriours who do</hi> Jewiſh <hi>Enſigns bear,</hi>
+               </l>
+               <l>
+                  <hi>By ſuch we're grown e'en Scandalous in War.</hi>
+               </l>
+               <l>
+                  <hi>Our Fathers Trophies wore, and oft could tell</hi>
+               </l>
+               <l>
+                  <hi>How by their Swords the mighty Thouſands fell;</hi>
+               </l>
+               <l>
+                  <hi>What mighty Deeds our Grandfathers had done,</hi>
+               </l>
+               <l>
+                  <hi>What Battles fought, What Wreaths of Honour won:</hi>
+               </l>
+               <l>
+                  <hi>Thro' the extended Orb they purchas'd Fame,</hi>
+               </l>
+               <l>
+                  <hi>The Nations trembling at their Awful Name:</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>But, how can Factious Tempers be ſubdu'd,</l>
+               <l>When <hi>Iſrael</hi>'s Rabbi's think ſuch Tempers good?</l>
+               <l>When her High-Prieſts ſit inſolent in State,</l>
+               <l>And grumble at the Pow'rs that made 'em great,</l>
+               <l>Though from <hi>Agrippa</hi>'s Bounty they are rais'd,</l>
+               <l>To wear that <hi>Veſt</hi> which they before diſprais'd;</l>
+               <l>When ev'n <hi>HALLASTIR</hi>'s Gratitude is ſhown,</l>
+               <l>In wiſhing for the Fall of <hi>Iſrael</hi>'s Throne.</l>
+               <l>A Man well Skill'd in <hi>Moſes</hi> Sacred Laws,</l>
+               <l>And too much learn'd for ſuch ſenſeleſs Cauſe,</l>
+               <l>Deſerving <hi>Love</hi> for what he <hi>truly knows,</hi>
+               </l>
+               <l>And <hi>Hate</hi> for the <hi>Example</hi> which he ſhows,</l>
+               <l>As His <hi>Heart</hi> laughs at what his <hi>Hands</hi> have took,</l>
+               <l>And loaths the <hi>Shepherd</hi> though he graſps the <hi>Crook.</hi>
+               </l>
+               <l>Next <hi>Levi</hi>'s Son, a <hi>Napthalite</hi> appears,</l>
+               <l>Of <hi>goodly Words,</hi> but groundleſs in his Fears,</l>
+               <l>Still dreading the Exceſs of Regal Pow'r,</l>
+               <l>Falſe, Diſcontented, Arrogant, and Sowr.</l>
+               <l>A Courtier once, for <hi>Iſrael</hi>'s Service fit,</l>
+               <l>Till <hi>Grants refus'd</hi> envenom'd all his <hi>Wit,</hi>
+               </l>
+               <l>Made him oppoſe the finding <hi>Means and Ways,</hi>
+               </l>
+               <l>And turn'd the Stream of Flatt'ry to Diſpraiſe,</l>
+               <l>As he would have the Subjects Wrongs redreſs'd,</l>
+               <l>And loſt the <hi>Golden Key</hi> which <hi>Lock'd</hi> his Breaſt.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>Such wondrous Heroes our Forefathers were,</hi>
+               </l>
+               <l>
+                  <hi>Whilſt we poor Souls! but Pigmies are in War:</hi>
+               </l>
+               <pb n="9" facs="tcp:132775:5"/>
+               <l>
+                  <hi>By Foreign Chieftains we improve in Skill;</hi>
+               </l>
+               <l>
+                  <hi>VVe learn how to intrench, not how to kill:</hi>
+               </l>
+               <l>
+                  <hi>For all our Charge are good Proficients made</hi>
+               </l>
+               <l>
+                  <hi>In uſing both the Pick-ax and the Spade.</hi>
+               </l>
+               <l>
+                  <hi>But in what Field have we a Conqueſt wrought?</hi>
+               </l>
+               <l>
+                  <hi>In Ten Years VVar what Battle have we fought?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>Diſtruſts like theirs our fretful Fathers ſeiz'd,</l>
+               <l>And urg'd a Rebel War to make 'em eas'd.</l>
+               <l>But Faith repos'd in Him our Wiſhes choſe</l>
+               <l>Mad us ſubdue another ſort of Foes;</l>
+               <l>Inſtead of Natives, <hi>Philiſtines</hi> we ſlew,</l>
+               <l>And made the <hi>Jebuſite</hi> adore the <hi>Jew,</hi>
+               </l>
+               <l>When <hi>Boyn</hi> with Purple Torrents ſwell'd its Flood,</l>
+               <l>And <hi>Ahgrim</hi> ſwam, like <hi>Golgotha,</hi> in Blood.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>If we a Foreign Slave may uſe in VVar,</hi>
+               </l>
+               <l>
+                  <hi>Yet why in Council ſhould that Slave appear?</hi>
+               </l>
+               <l>
+                  <hi>If we with</hi> Jewiſh <hi>Treaſure make him great,</hi>
+               </l>
+               <l>
+                  <hi>Muſt it be done to undermine the State?</hi>
+               </l>
+               <l>
+                  <hi>VVhere are the Antient Sages of Renown?</hi>
+               </l>
+               <l>
+                  <hi>No</hi> Magi <hi>left fit to adviſe the Crown?</hi>
+               </l>
+               <l>
+                  <hi>Muſt we by Foreign Council be undone?</hi>
+               </l>
+               <l>
+                  <hi>Unhappy</hi> Iſrael, <hi>who ſuch Meaſures takes,</hi>
+               </l>
+               <l>
+                  <hi>And ſeeks for Stateſmen in the Bogs and Lakes;</hi>
+               </l>
+               <l>
+                  <hi>VVho ſpeak the Language of moſt abject Slaves,</hi>
+               </l>
+               <l>
+                  <hi>Under the Conduct of our Jewiſh Knaves.</hi>
+               </l>
+               <l>
+                  <hi>Our</hi> Hebrew's <hi>Murder'd in their hoarſer Throats;</hi>
+               </l>
+               <l>
+                  <hi>How ill their Tongues agree with</hi> Jewiſh Notes!</l>
+               <l>
+                  <hi>Their untun'd Prattle do's our Senſe confound,</hi>
+               </l>
+               <l>
+                  <hi>VVhich in our Princely Palaces do's ſound;</hi>
+               </l>
+               <l>
+                  <hi>The ſelf-ſame Language the old Serpent ſpoke</hi>
+               </l>
+               <l>
+                  <hi>VVhen misbelieving</hi> Eve <hi>the Apple took:</hi>
+               </l>
+               <l>
+                  <hi>Of our firſt Mother why are we aſham'd,</hi>
+               </l>
+               <l>
+                  <hi>VVhen by the ſelf-ſame Rhetorick we are damn'd?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>Yet thoſe who Sav'd and Counſel'd us in War,</l>
+               <l>Muſt not in Peace at Council Board appear,</l>
+               <l>But in return for Conqueſt, take Diſgrace,</l>
+               <l>And Naturaliz'd, not have a Natives Place.</l>
+               <l>Oh! <hi>Iſrael,</hi> let it not in <hi>Gath</hi> be known,</l>
+               <l>Nor let thy <hi>Gratitude</hi> reach <hi>Askalon,</hi>
+               </l>
+               <l>Publiſh it not, leaſt Heathens know thy ſhame,</l>
+               <l>And <hi>Philiſtin's</hi> deride thy Sacred Name!</l>
+               <l>
+                  <hi>Bentir</hi> has for thy Rights and Honours ſtood,</l>
+               <l>And made an <hi>Iſraelite,</hi> ſought <hi>Iſraels</hi> good,</l>
+               <l>Diſpell'd the Tempeſts gathering from a far,</l>
+               <l>And next <hi>Agrippa</hi> huſh'd the Din of War.</l>
+               <pb n="10" facs="tcp:132775:6"/>
+               <l>Yet for the <hi>Language</hi> is the Man diſpis'd,</l>
+               <l>Whilſt he that has <hi>no Thoughts</hi> is ador'd and priz'd.</l>
+               <l>Beaſt, as thou art, impertinent in wrong,</l>
+               <l>Thou need'ſt no <hi>Eve</hi> to Damn <hi>Thee</hi> but thy Tongue;</l>
+               <l>Thy canker'd Malice, and thy feſter'd Thoughts</l>
+               <l>Can turn the pureſt Vertues into Faults.</l>
+               <l>Whoſe riſing Honours, and whoſe towring Fame,</l>
+               <l>Soar <hi>high</hi> in Merit, as thou <hi>ſink'ſt</hi> in Shame.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>But</hi> Bentir <hi>not content with ſuch Command,</hi>
+               </l>
+               <l>
+                  <hi>To canton out the</hi> Jewiſh <hi>Nation's Land:</hi>
+               </l>
+               <l>
+                  <hi>He does extend to other Coaſts his Pride,</hi>
+               </l>
+               <l>
+                  <hi>And other Kingdoms into Parts Divide,</hi>
+               </l>
+               <l>
+                  <hi>Unhappy</hi> Hiram! <hi>diſmal is thy Song,</hi>
+               </l>
+               <l>
+                  <hi>Though born to Empire, thou art ever Young!</hi>
+               </l>
+               <l>
+                  <hi>Ever in Nonage, canſt no right transfer:</hi>
+               </l>
+               <l>
+                  <hi>But who made</hi> Bentir <hi>thy Executor?</hi>
+               </l>
+               <l>
+                  <hi>What mighty Power do's</hi> Iſrael<hi>'s Land afford?</hi>
+               </l>
+               <l>
+                  <hi>What Power has made the famous</hi> Bentir <hi>Lord?</hi>
+               </l>
+               <l>
+                  <hi>The Peoples Voice, and</hi> Sanhedrim<hi>'s Accord.</hi>
+               </l>
+               <l>
+                  <hi>Are not the Rights of People ſtill the ſame?</hi>
+               </l>
+               <l>
+                  <hi>Did they e're differ in or Place or Name?</hi>
+               </l>
+               <l>
+                  <hi>Have not Mankind on equal Terms ſtill ſtood,</hi>
+               </l>
+               <l>
+                  <hi>Without Diſtinction, ſince the mighty Flood?</hi>
+               </l>
+               <l>
+                  <hi>And have not</hi> Hiram's <hi>Subjects a free Choice</hi>
+               </l>
+               <l>
+                  <hi>To chuſe a King by their united Voice?</hi>
+               </l>
+               <l>
+                  <hi>If</hi> Iſrael<hi>'s People could a Monarch chuſe,</hi>
+               </l>
+               <l>
+                  <hi>A living King at the ſame time refuſe;</hi>
+               </l>
+               <l>
+                  <hi>That</hi> Hiram<hi>'s People, ſhall it e'er be ſaid,</hi>
+               </l>
+               <l>
+                  <hi>Have not the Right of Choice when he is Dead?</hi>
+               </l>
+               <l>
+                  <hi>When no Succeſſor to the Crown's in ſight,</hi>
+               </l>
+               <l>
+                  <hi>The Crown is certainly the Peoples Right.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>But Envy's not contented to Prophane</l>
+               <l>
+                  <hi>Agrippa</hi>'s Friend, but dares his Maſter's Reign,</l>
+               <l>Under the Subject, it reviles the Prince,</l>
+               <l>And calls the trueſt Service an Offence.</l>
+               <l>Would Heav'n that <hi>Hiram</hi>'s Sickneſs would abate,</l>
+               <l>And he himſelf leave Heirs to <hi>Sidons</hi> State;</l>
+               <l>That Peace reſtor'd might have no other Face,</l>
+               <l>And War be known no more to Mortal Race.</l>
+               <l>But ſince our hopes are in appearance loſt,</l>
+               <l>And Fate has <hi>Iſrael</hi>'s Vows and <hi>Sidon</hi>'s croſt.</l>
+               <l>Since the good Prince nor Herbs nor Art can ſave,</l>
+               <l>And he muſt Childleſs yield to Nature's Grave.</l>
+               <l>What nobler Act could humane Mind perform,</l>
+               <l>Than to prevent and ſtill the growing Storm,</l>
+               <l>Which from two fierce Pretenders elſe would riſe</l>
+               <l>With Arms in hand diſputing for the Prize;</l>
+               <pb n="11" facs="tcp:132775:6"/>
+               <l>As each had equal ſhare in <hi>Sidon</hi>'s Reign,</l>
+               <l>And each had <hi>Sidon</hi>'s Blood in ev'ry Vein.</l>
+               <l>What has He got, or what his Wiſdom wrought,</l>
+               <l>But only Peace, and Peace was all He ſought?</l>
+               <l>
+                  <hi>Egypt</hi> and <hi>Syria</hi> both as Brethren ſhare,</l>
+               <l>Could <hi>Syria</hi> think her Lot divided fair,</l>
+               <l>And ſince they'r both Succeſſors to the Throne,</l>
+               <l>Give <hi>Egypt</hi> what's <hi>Her</hi> Part, and like <hi>Her own.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>If Kings are made the People to Enthral,</hi>
+               </l>
+               <l>
+                  <hi>We had much better have no King at all:</hi>
+               </l>
+               <l>
+                  <hi>But Kings appointed for the Common Good,</hi>
+               </l>
+               <l>
+                  <hi>Always as Guardians to the People ſtood.</hi>
+               </l>
+               <l>
+                  <hi>And Heaven allows the People ſure a Pow'r</hi>
+               </l>
+               <l>
+                  <hi>To chuſe ſuch Kings as ſhall not them Devour:</hi>
+               </l>
+               <l>
+                  <hi>They know full well what beſt will ſerve themſelves,</hi>
+               </l>
+               <l>
+                  <hi>How to avoid the dangerous Rocks and Shelves.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>If Kings are made the Product of our Choice,</l>
+               <l>And owe their Grandeur to the Peoples Voice,</l>
+               <l>Whence is their <hi>Right Divine,</hi> and whence is giv'n</l>
+               <l>A <hi>Sacred</hi> Pow'r, unleſs their <hi>Voice</hi> is <hi>Heav'n.</hi>
+               </l>
+               <l>God firſt appointed Kings, and God ordain'd</l>
+               <l>That ſhould be fix'd which He alone ſuſtain'd,</l>
+               <l>Well knowing from his Providential Mind,</l>
+               <l>That <hi>Iſrael</hi> could not <hi>chuſe,</hi> ſince ſhe was <hi>Blind.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>Unthinking</hi> Iſrael! <hi>ah! henceforth beware</hi>
+               </l>
+               <l>
+                  <hi>How you entruſt this Faithleſs Wanderer.</hi>
+               </l>
+               <l>
+                  <hi>He who another Kingdom can divide,</hi>
+               </l>
+               <l>
+                  <hi>May ſet your Conſtitution ſoon aſide,</hi>
+               </l>
+               <l>
+                  <hi>And o'er your Liberties in Triumph ride.</hi>
+               </l>
+               <l>
+                  <hi>Support your Rightful Monarch and his Crown,</hi>
+               </l>
+               <l>
+                  <hi>But pull this Proud, this Croaking Mortal down.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>Let her indeed <hi>beware,</hi> and truly dread</l>
+               <l>The Miſchiefs which are falling on her Head,</l>
+               <l>Whilſt ſhe permits Audacious Slaves, to dare</l>
+               <l>That Providence, that made Her Kings its Care;</l>
+               <l>And lets a Servile Wretch for Servile Ends</l>
+               <l>Traduce Her Monarch, and Defame his Friends.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>Proceed, my Muſe, the Story next relate</hi>
+               </l>
+               <l>
+                  <hi>Of</hi> Keppech, <hi>the imperious Chit of State,</hi>
+               </l>
+               <l>
+                  <hi>Mounted to Grandeur by the uſual Courſe,</hi>
+               </l>
+               <l>
+                  <hi>Of Whoring, Pimping, or a Crime that's</hi> worſe;</l>
+               <l>
+                  <hi>Of Foreign Birth, and undeſcended too,</hi>
+               </l>
+               <l>
+                  <hi>Yet he like</hi> Bentir <hi>mighty Feats can do.</hi>
+               </l>
+               <pb n="12" facs="tcp:132775:7"/>
+               <l>
+                  <hi>He robs our Treaſure, to augment his State,</hi>
+               </l>
+               <l>
+                  <hi>And</hi> Jewiſh <hi>Nobles on his Fortunes wait:</hi>
+               </l>
+               <l>
+                  <hi>Our raviſh'd Honours on his Shoulder wears,</hi>
+               </l>
+               <l>
+                  <hi>And Titles from our Antient Rolls he tears.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>Amongſt 'em ſhines a Youth of goodly Port,</l>
+               <l>
+                  <hi>Keppech</hi> the glorious Pride of <hi>Iſrael</hi>'s Court,</l>
+               <l>By Nature form'd for Grandeur, and deſign'd</l>
+               <l>For Honours, the Rewards of ſuch a Mind.</l>
+               <l>Noble his Birth, though Foreign is his Blood,</l>
+               <l>(For other Lands can ſhew a Noble Flood)</l>
+               <l>His Temper Courteous, though his Station Great,</l>
+               <l>As ev'ry Word flows affable and ſweet,</l>
+               <l>And ſince <hi>Agrippa</hi> 'as plac'd him near his Heart,</l>
+               <l>It needs muſt be th' effect of <hi>true</hi> Deſert.</l>
+            </lg>
+            <lg>
+               <head>Foreigners.</head>
+               <l>
+                  <hi>Was e'er a prudent People thus befool'd?</hi>
+               </l>
+               <l>
+                  <hi>By Upſtart Foreigners thus baſely gull'd?</hi>
+               </l>
+               <l>
+                  <hi>Ye</hi> Jewiſh <hi>Nobles boaſt no more your Race,</hi>
+               </l>
+               <l>
+                  <hi>Or Sacred Badges did your Father's Grace!</hi>
+               </l>
+               <l>
+                  <hi>In vain is Blood, or Parentages, when</hi>
+               </l>
+               <l>
+                  <hi>Ribbons and Garters can ennoble Men.</hi>
+               </l>
+               <l>
+                  <hi>To Chivalry you need have no recourſe,</hi>
+               </l>
+               <l>
+                  <hi>The gawdy Trappings make the Aſs a Horſe.</hi>
+               </l>
+               <l>
+                  <hi>No more, no more, your antient Honours own,</hi>
+               </l>
+               <l>
+                  <hi>By ſlaviſh</hi> Gibeonites <hi>you are outdone:</hi>
+               </l>
+               <l>
+                  <hi>Or elſe your antient Courage reaſſume,</hi>
+               </l>
+               <l>
+                  <hi>And to aſſert your Honours once preſume;</hi>
+               </l>
+               <l>
+                  <hi>From off their Heads your raviſh'd Lawrels tear,</hi>
+               </l>
+               <l>
+                  <hi>And let them know what</hi> Jewiſh Nobles <hi>are.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>Reverſe.</head>
+               <l>And Thou Great Prince, from whoſe Auſpicious Reign</l>
+               <l>We Trimph o'er the Land, and Rule the Main;</l>
+               <l>From whoſe Example we ſhould Diſcords ceaſe,</l>
+               <l>And learn to live, in what Thou gav'ſt us, Peace.</l>
+               <l>Inſtead of theſe, whom <hi>Common-wealth</hi> Debates</l>
+               <l>Would render Enemies to <hi>Iſrael</hi>'s States,</l>
+               <l>Part with thy treach'rous <hi>JOCKNEY</hi> from Thy ſide,</l>
+               <l>Nor let Thy Bounty more ſupport his Pride;</l>
+               <l>Let <hi>HEBRON'S PRIEST</hi> from Thy Embraces torn,</l>
+               <l>Preach <hi>Anarchy</hi> where <hi>Anarchy</hi> was born,</l>
+               <l>Whilſt from Thy Righteous Throne we take our Laws,</l>
+               <l>And fear the Sovereign as we love the Cauſe;</l>
+               <l>As we the Bleſſings of thy Scepter ſhare,</l>
+               <l>And truly know what <hi>Jewiſh Monarchs</hi> are.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
